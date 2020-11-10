@@ -1,4 +1,4 @@
-source "https://rubygems.org"
-
-gem 'rake', '~> 12.3'
-gem 'rspec', '~> 3.4'
+source 'https://rubygems.org'
+gem 'nokogiri'
+gem 'rack', '~> 2.0.1'
+gem 'rspec'
